@@ -1,0 +1,47 @@
+.block-layout{
+    display: inline-block;
+    width: 18%;
+    background-color: #59C1BD;
+    height: 100%;
+    padding: 2%;
+    font-size: 1.5em;
+
+}
+.flex-layout{
+    display: inline-flex;
+    width: 100%;
+    margin-left: 2%;
+}
+.Container{
+    width: 30%;
+    border: 1px solid lightgrey;
+    padding: 15px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #A0E4CB;
+}
+.Container-body{
+      padding : 15px;
+      background-color: #59C1BD;
+      text-align: left;
+      color: white;
+      margin-right: 15px;
+      border-radius: 10px;
+      text-shadow: 0 0 2px #555555;
+      width:max-content;
+      box-shadow: 0 0 4px grey;
+}
+#fullName #profession #projects{
+    padding : 25px;
+    font-family: "Segoe UI";
+    width: 100%;
+}
+.topic{
+    text-align: center;
+    font-size: 3em;
+    font-weight:700 ;
+    margin-bottom: 4%;
+}
+
