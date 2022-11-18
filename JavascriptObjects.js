@@ -1,3 +1,4 @@
+
 //Example -1
 const Person = {
     // Object properties
@@ -58,3 +59,5 @@ document.getElementById("cokeExpiringDate").innerHTML=Products.coke[2];
 document.getElementById("toothpastePrice").innerHTML="Coke " + " " + Products.toothPaste[0];
 document.getElementById("toothpasteManufacturedDate").innerHTML= Products.toothPaste[1];
 document.getElementById("toothpasteExpiringDate").innerHTML=Products.toothPaste[2];
+
+
