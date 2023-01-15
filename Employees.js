@@ -1,5 +1,3 @@
-
-
 // Example 1
 //Constructor method
 // const or let can be used
@@ -34,6 +32,7 @@ const Employees = {
         }
 
 }
+
 /* When it is outside it is called FUNCTION, like the example below.*/
  // Employees.computeSalary()
 
